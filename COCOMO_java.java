@@ -1,5 +1,6 @@
 public class COCOMO_java {
 
+    /*
     public static void main(String[] args) throws Exception
     {
         // write your code here
@@ -19,7 +20,7 @@ public class COCOMO_java {
         String out = calculate(table, 3, mode, size);
         System.out.println(out);
     }
-
+*/
     public static String calculate(float[][] table, int n, char[][] mode, int size) throws Exception
     {
         String out = "";
